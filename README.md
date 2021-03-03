@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Packa upp zip filen, lokalt på disk.
 
-Things you may want to cover:
+- kör 'rails db:migrate' för att skapa up databasen
 
-* Ruby version
+- starta rails lokalt, 'rails s'
 
-* System dependencies
+- Gå till 'localhost:3000' så ska där vara en väldigt basic blogg.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Allt borde funka, det är tyvärr det bästa jag kan hitta efter hårddisk kraschen.
